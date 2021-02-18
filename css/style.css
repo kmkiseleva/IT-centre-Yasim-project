@@ -135,6 +135,12 @@ header {
     url(../img/circlesRight1.png) no-repeat 1200px 690px;
 }
 
+.block-one p,
+.myhistory p,
+.about__text p {
+  font-size: 20px;
+}
+
 .intro {
   padding-bottom: 220px;
 }
