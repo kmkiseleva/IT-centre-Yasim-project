@@ -532,6 +532,11 @@ footer {
     margin-bottom: 30px;
   }
 
+  .btn {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   .block-one {
     background: url(../img/groupLeft1.png) no-repeat left top / 150px;
   }
